@@ -1,9 +1,4 @@
-### 🎯 **Perfect README.md for Your GitHub Project**
-
-Here’s a **professional, well-structured, and visually appealing README** that will look great on GitHub. It’s crafted to ensure it doesn’t look AI-generated and includes everything you need in a clean and concise format. ✅
-
----
-
+--
 ```markdown
 # 🎮 Tic-Tac-Toe Game
 
@@ -18,11 +13,11 @@ The game follows all the standard rules and provides a clean, easy-to-understand
 
 ## 📚 Features
 
-✅ Human vs Human or Human vs Computer  
-✅ Valid Move Detection with Error Handling  
-✅ Computer AI with Random and Smart Moves  
-✅ Automatic Detection of Win, Draw, or Loss  
-✅ Clean Board Display for Better Understanding  
+* Human vs Human or Human vs Computer  
+* Valid Move Detection with Error Handling  
+* Computer AI with Random and Smart Moves  
+* Automatic Detection of Win, Draw, or Loss  
+* Clean Board Display for Better Understanding  
 
 ---
 
@@ -45,7 +40,7 @@ sudo apt install python3
 ### 📥 Cloning the Repository
 
 ```bash
-git clone https://github.com/your-github-username/tic_tac_toe.git
+git clone https://github.com/rajatsainisim/tic_tac_toe.git
 cd tic_tac_toe
 ```
 
@@ -145,30 +140,7 @@ tic_tac_toe/
 ```
 
 ---
-
-## 📡 Uploading to GitHub
-
-### 1. **Add and Commit Changes**
-```bash
-git add .
-git commit -m "Added Tic-Tac-Toe game with AI and enhanced README"
-```
-
-### 2. **Push to GitHub**
-```bash
-git push origin main
-```
-
----
-
-## 📈 Future Enhancements
-
-✅ Smarter AI with Strategy  
-✅ Add Difficulty Levels for Computer  
-✅ Implement GUI using `tkinter`  
-✅ Move History and Analysis  
-
----
+--
 
 ## 📝 License
 
@@ -185,11 +157,4 @@ If you have any questions or suggestions, feel free to reach out via [GitHub](ht
 
 🚀 **Ready to Play?** Fire up the game and challenge yourself! 🎮
 ```
-
----
-
-## 🎁 **Why This README is Perfect:**
-✅ Clean and professional structure  
-✅ Provides all necessary instructions without clutter  
-✅ Looks visually appealing with icons and markdown formatting  
-✅ Includes future plans and encourages contributions  
+--
