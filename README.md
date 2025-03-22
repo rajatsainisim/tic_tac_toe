@@ -1,4 +1,4 @@
---
+Clone & Run
 ```markdown
 # 🎮 Tic-Tac-Toe Game
 
@@ -91,16 +91,17 @@ If the board is full and no one wins, the game ends in a **draw**.
 ## 📝 Example Gameplay
 
 ```
-Enter Player 1's name: Rajat
-Rajat, choose your symbol (O or X, default is O): X
-Will Player 2 be (H)uman or (C)omputer? C
+rajat@rajat:~/Music/tic_tac_toe$ python3 tic_tac_toe.py
+Enter Player 1's name: rajat
+rajat, choose your symbol (O or X, default is O): X
+Will Player 2 be (H)uman or (C)omputer? C    
 
    |   |  
 -----------
    |   |  
 -----------
    |   |  
-Rajat, enter your move (1-9): 2
+rajat, enter your move (1-9): 2
 
    | X |  
 -----------
@@ -114,6 +115,29 @@ Computer plays at position 9
    |   |  
 -----------
    |   | O
+rajat, enter your move (1-9): 8
+
+   | X |  
+-----------
+   |   |  
+-----------
+   | X | O
+Computer plays at position 4
+
+   | X |  
+-----------
+ O |   |  
+-----------
+   | X | O
+rajat, enter your move (1-9): 5
+
+   | X |  
+-----------
+ O | X |  
+-----------
+   | X | O
+Congratulations! rajat wins!
+
 ```
 
 ---
@@ -155,6 +179,3 @@ If you have any questions or suggestions, feel free to reach out via [GitHub](ht
 
 ---
 
-🚀 **Ready to Play?** Fire up the game and challenge yourself! 🎮
-```
---
